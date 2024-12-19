@@ -1,3 +1,9 @@
+/*Nome ALUNO A- Guilherme Miguel Filipe Inacio
+Nome ALUNO B- Tiago Silva Bastos
+IPLEIRIA - Instituto Politécnico de Leiria
+ESTG - Escola Superior de Tecnologia e Gestão
+EAU- Licenciatura em Engenharia Automovel
+SEEV - Sistemas Elétricos e Eletrónicos de Veículos*/
 #include <Arduino.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
